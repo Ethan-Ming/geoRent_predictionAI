@@ -28,9 +28,9 @@ how distance to nearest station and closeness to downtown affect price different
 
 
 
-##data and metheds
+## data and metheds
 
-###data source
+### data source
 
 -forked from @
 
