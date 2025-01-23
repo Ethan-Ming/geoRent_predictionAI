@@ -26,11 +26,6 @@ By balancing walkability and property location, you can find the best value for 
 
 ---
 
-
-
-
----
-
 ## Data and Methods
 
 ### Data Source
@@ -41,7 +36,7 @@ By balancing walkability and property location, you can find the best value for 
 - Added dummy variables for categorical data and standardized numerical features.
 
 ### Visualization
-- **corrlation**:
+- **Correlation**:
   - Correlation between features and price.
 - **WEBUI**:
   - a gardio interface.
