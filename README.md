@@ -49,7 +49,7 @@ By balancing walkability and property location, you can find the best value for 
 
 
 
-## Web Application
+## WebUI (under development)
 The project includes a deployed web interface that enables users to:
 - Input property features like building age, square footage, and proximity to stations.
 - Obtain correlations between features..
@@ -72,4 +72,4 @@ The project includes a deployed web interface that enables users to:
 ## Credit & addtional resources
 
 - ["fair price" checker](https://www.landandhome.co.jp/rent/price_checker/)
-- @coco2525 remixed scapping code and readme.md
+- [coco2525](https://github.com/coco2525)remixed scapping code and readme.md
