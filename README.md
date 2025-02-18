@@ -1,9 +1,9 @@
-# TokyoRentingBirdview
+# geoRent_predictionAI
 
 
 ## Project Overview
 
-TokyoRentingBirdview aims to help newcomers in Japan understand the factors influencing rental prices, enabling them to make informed decisions about their living arrangements. The project delves into the specific relationships between price and various features, such as:
+geoRent_predictionAI aims to help newcomers in Japan understand the factors influencing rental prices, enabling them to make informed decisions about their living arrangements. The project delves into the specific relationships between price and various features, such as:
  - What factors contribute to low initial deposits?
  - How does the distance to the nearest station and proximity to downtown affect rental prices differently, and by how much?
  - etc.. name your relasion
